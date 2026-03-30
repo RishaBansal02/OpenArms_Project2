@@ -38,3 +38,8 @@ Open MongoDB Compass and check that you see:
 - 5 documents in the `client` collection
 - 3 documents in the `organization` collection
 - 5 documents in the `case_worker` collection
+
+#AI usage
+#Used Claude to verify the Hierarchical model as well as query 4>
+#Prompt: "Does this Hierarchical model inclide aggregation as well as relationsips and is it formatted correctly."
+#Prompt: "Does this code correctlty update a document based on a query parameter." 
